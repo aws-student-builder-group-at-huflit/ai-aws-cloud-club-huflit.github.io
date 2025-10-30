@@ -5,7 +5,7 @@ export default function Footer() {
         <footer className="bg-bg-200 w-full border-t border-t-gray-400">
             <div className="flex flex-inline w-full py-2 px-8 items-center justify-between">
                 <img src={logo} className="w-16" alt="logo" />
-                <p className="text-gray-600 font-mono">
+                <p className="text-gray-600 font-mono text-center">
                     Copyright © 2025{" "}
                     <a
                         href="https://tobynguyen.dev"

@@ -1,0 +1,101 @@
+[
+    {
+        "avatar": "https://picsum.photos/60",
+        "name": "Danh Hoàng Hiếu Nghị",
+        "role": "Web developer",
+        "connects": [
+            {
+                "type": "github",
+                "link": "https://github.com/tobynguyen27"
+            }
+        ]
+    },
+    {
+        "avatar": "https://picsum.photos/60",
+        "name": "Đinh Trung Kiên",
+        "role": "Web developer",
+        "connects": [
+            {
+                "type": "github",
+                "link": "https://github.com/tobynguyen27"
+            }
+        ]
+    },
+    {
+        "avatar": "https://picsum.photos/60",
+        "name": "Nguyễn Minh Thư",
+        "role": "Web developer",
+        "connects": [
+            {
+                "type": "github",
+                "link": "https://github.com/tobynguyen27"
+            }
+        ]
+    },
+    {
+        "avatar": "https://picsum.photos/60",
+        "name": "Bùi Trần Thành Quý",
+        "role": "Web developer",
+        "connects": [
+            {
+                "type": "github",
+                "link": "https://github.com/tobynguyen27"
+            }
+        ]
+    },
+    {
+        "avatar": "https://picsum.photos/60",
+        "name": "Lê Huỳnh Tấn Phát",
+        "role": "Web developer",
+        "connects": [
+            {
+                "type": "github",
+                "link": "https://github.com/tobynguyen27"
+            }
+        ]
+    },
+    {
+        "avatar": "https://picsum.photos/60",
+        "name": "Trương Gia Thụy",
+        "role": "Web developer",
+        "connects": [
+            {
+                "type": "github",
+                "link": "https://github.com/tobynguyen27"
+            }
+        ]
+    },
+    {
+        "avatar": "https://picsum.photos/60",
+        "name": "Trần Mai Thy",
+        "role": "Web developer",
+        "connects": [
+            {
+                "type": "github",
+                "link": "https://github.com/tobynguyen27"
+            }
+        ]
+    },
+    {
+        "avatar": "https://picsum.photos/60",
+        "name": "Nguyễn Minh Thọ",
+        "role": "Web developer",
+        "connects": [
+            {
+                "type": "github",
+                "link": "https://github.com/tobynguyen27"
+            }
+        ]
+    },
+    {
+        "avatar": "https://picsum.photos/60",
+        "name": "Nguyễn Huỳnh Thiên Bửu",
+        "role": "Web developer",
+        "connects": [
+            {
+                "type": "github",
+                "link": "https://github.com/tobynguyen27"
+            }
+        ]
+    }
+]

@@ -1,7 +1,5 @@
-# AI & AWS Cloud Club
+# AWS Student Builder Group from HUFLIT
 
-**AI & AWS Cloud Club official from HUFLIT website**
-
-# License
+## License
 
 Released under the [MIT](./LICENSE) license.
